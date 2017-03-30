@@ -1,0 +1,9 @@
+This is another sampl text
+:w
+:wq
+
+q!
+q
+:q!
+:quit
+
